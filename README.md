@@ -10,8 +10,6 @@ Consiste em um app imobiliária que consta algumas casas, e com campo de pesquis
 ![Web 1](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/Home.PNG)
 ![Web 2](https://github.com/aslac2020/imagespublicacao/blob/main/assets/images/Sites/Search.PNG)
 
-# Hospedagem
-https://aslac2020-buscadorcep.netlify.app
 
 # Tecnologias utilizadas
 
